@@ -4,16 +4,16 @@ using namespace std;
 void main()
 {
     int a, b = 0;
-    int hieu = 0;
-    int hieu = 0;
+    int tich = 0;
+    int tich = 0;
     cout << "nhap a";
     cin >> a;
     cout << "nhap b";
     cin >> b;
-    hieu = a + b;
-    hieu = a - b;
-    cout << "hieu la" << hieu;
-    cout << "hieu la" << hieu;
-    cout << "hieu la" << hieu;
-    cout << "hieu la" << hieu;
+    tich = a + b;
+    tich = a - b;
+    cout << "tich la" << tich;
+    cout << "tich la" << tich;
+    cout << "tich la" << tich;
+    cout << "tich la" << tich;
 }
